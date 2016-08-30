@@ -44,7 +44,7 @@ network setup.
 # Getting Data
 Once the ESP8266 HUZZAH has been programmed, powered, and successfully
 connected to your network, you should be able to request temperature
-and pressure from it. A python code sniper below shows how to
+and pressure from it. A python code snipet below shows how to
 request the current temperature.
 ```python
 def get_OAT():
